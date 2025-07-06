@@ -8,7 +8,7 @@
     "text": "Daniel Trindade e Maria Eduarda"
   },
   "text": {
-    "more": "",
+    "more": "A centralidade de grau quantifica o número de conexões diretas de um nó. Na visualização, o tamanho de cada nó é diretamente proporcional ao seu grau. Nós maiores, portanto, são hubs que possuem um alto número de interações. A Figura 1 demonstra que a rede possui vários nós com grau elevado, que se destacam visualmente e atuam como pontos centrais de conexão local.",
     "intro": "A centralidade de grau quantifica o número de conexões diretas de um nó. Na visualização, o tamanho de cada nó é diretamente proporcional ao seu grau. Nós maiores, portanto, são hubs que possuem um alto número de interações. A Figura 1 demonstra que a rede possui vários nós com grau elevado, que se destacam visualmente e atuam como pontos centrais de conexão local.",
     "title": "Número de Vizinhos (Grau)"
   },
